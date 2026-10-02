@@ -33,5 +33,6 @@ I am an Electronics & Telecommunication Engineering graduate (Class of 2025) piv
 
 📫 Connect with Me
 * LinkedIn: <p>
-   <strong><a href =" https://www.linkedin.com/in/mamata-rane/" 
+   <strong><a href =" https://www.linkedin.com/in/mamata-rane/"
+   </p>
 * Email: mamatarane152@gmail.com
